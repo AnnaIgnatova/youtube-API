@@ -1,0 +1,23 @@
+{
+  "name": "youtube-js.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnnaIgnatova/youtube-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnnaIgnatova/youtube-js/issues"
+  },
+  "homepage": "https://github.com/AnnaIgnatova/youtube-js#readme"
+}
